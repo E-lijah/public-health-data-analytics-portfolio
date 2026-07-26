@@ -54,6 +54,8 @@ My professional curriculum vitae.
 
 ## Mental Wellbeing Analysis
 
+### [Mental Wellbeing Analysis](Projects/Mental-Wellbeing-Analysis/)
+
 This project investigates factors influencing mental wellbeing using quantitative statistical techniques.
 
 ### Statistical Analyses Performed
