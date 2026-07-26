@@ -111,8 +111,8 @@ I am actively building my portfolio while seeking opportunities in:
 Feel free to connect with me.
 
 - **GitHub:** https://github.com/E-lijah
-- **LinkedIn:** *(Add your LinkedIn profile here)*
-- **Email:** *(Add your professional email here)*
+- **LinkedIn:** https://www.linkedin.com/in/elijah-okunola-525002367/
+- **Email:** okunolaelijaholuwafemi1991@gmail.com
 
 ---
 
