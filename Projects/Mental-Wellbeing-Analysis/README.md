@@ -28,6 +28,22 @@ To identify factors associated with mental wellbeing by applying statistical ana
 - Data interpretation
 - Research reporting
 - Public health data analysis
+- Frequency Analysis
+- Reliability Analysis (Cronbach's Alpha)
+- Pearson Correlation Analysis
+- Multiple Linear Regression
 
-## Project Status
-Completed. Further interpretation and visualisation will be added as the portfolio develops.
+## Project Outputs
+
+- Frequency Tables
+- Reliability Analysis (Cronbach's Alpha)
+- Correlation Analysis Results
+- Multiple Linear Regression Results
+
+## Skills Demonstrated
+
+- Data preparation
+- Statistical analysis
+- Data interpretation
+- Research reporting
+- Public health data analysis
