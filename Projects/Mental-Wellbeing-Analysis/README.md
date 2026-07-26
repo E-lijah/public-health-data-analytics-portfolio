@@ -40,10 +40,4 @@ To identify factors associated with mental wellbeing by applying statistical ana
 - Correlation Analysis Results
 - Multiple Linear Regression Results
 
-## Skills Demonstrated
 
-- Data preparation
-- Statistical analysis
-- Data interpretation
-- Research reporting
-- Public health data analysis
