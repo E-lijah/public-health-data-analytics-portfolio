@@ -7,6 +7,13 @@ This project investigates factors associated with mental wellbeing using survey 
 
 To identify factors associated with mental wellbeing by applying statistical analysis techniques and interpreting the findings.
 
+## Dataset
+
+- **Source:** Cross-sectional survey questionnaire
+- **Sample size:** 496 respondents
+- **Format:** Microsoft Excel (.xlsx) imported into IBM SPSS (.sav)
+- **Variables:** Age, gender, education level, employment status, mental wellbeing score, and other study variables.
+
 ## Software Used
 
 - IBM SPSS Statistics
