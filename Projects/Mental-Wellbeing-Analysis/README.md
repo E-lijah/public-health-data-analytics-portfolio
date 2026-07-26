@@ -28,6 +28,14 @@ To identify factors associated with mental wellbeing by applying statistical ana
 - Pearson Correlation Analysis
 - Multiple Linear Regression
 
+## Results
+
+Descriptive statistics were conducted to summarise the demographic characteristics of the respondents. Reliability analysis demonstrated acceptable internal consistency for most study constructs, with Working Style showing the highest reliability (Cronbach's Alpha = 0.803).
+
+Pearson correlation analysis revealed statistically significant positive relationships among most study variables. The strongest correlation was observed between Family Adjustment and Working Style (r = 0.587, p < .001).
+
+Multiple linear regression analysis indicated that the overall model was statistically significant (F = 81.664, p < .001), explaining 53.9% of the variance in Work-Life Balance (R² = 0.539). Stress Management, Health, and Institutional Effort significantly predicted Work-Life Balance, whereas Family Adjustment, Working Style, and Personal Effort were not significant predictors in the final model.
+
 ## Skills Demonstrated
 
 - Data preparation
