@@ -19,7 +19,7 @@ To identify factors associated with mental wellbeing by applying statistical ana
 - Frequency Analysis
 - Reliability Analysis (Cronbach's Alpha)
 - Pearson Correlation Analysis
--Multiple Linear Regression
+- Multiple Linear Regression
 
 ## Skills Demonstrated
 
