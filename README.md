@@ -18,12 +18,12 @@ I am a Public Health and health promotion graduate with a strong passion for **d
 - Python *(Learning)*
 
 
-## 📁 Repository Structure
+## Repository Structure
 
-### 📂 Projects
+### Projects
 Contains complete public health data analytics projects.
 
-### 📂 SPSS
+### SPSS
 Includes:
 - SPSS Output Files (.spv)
 - PDF Versions of Statistical Outputs
@@ -33,37 +33,37 @@ Includes:
 - Correlation Analysis
 - Regression Analysis
 
-### 📂 Excel
+### Excel
 Excel-based data cleaning, management and analysis projects.
 
-### 📂 Research
+### Research
 Academic and public health research documents.
 
-### 📂 Documentation
+### Documentation
 Supporting project documentation and reports.
 
-### 📂 Images
+### Images
 Project-related images and visualisations.
 
-### 📂 CV
+### CV
 My professional curriculum vitae.
 
 ---
 
-# 📌 Featured Project
+# Featured Project
 
-## 🧠 Mental Wellbeing Analysis
+## Mental Wellbeing Analysis
 
 This project investigates factors influencing mental wellbeing using quantitative statistical techniques.
 
 ### Statistical Analyses Performed
 
-- ✔ Data Cleaning
-- ✔ Descriptive Statistics
-- ✔ Frequency Distribution
-- ✔ Reliability Analysis (Cronbach's Alpha)
-- ✔ Pearson Correlation
-- ✔ Multiple Linear Regression
+- Data Cleaning
+- Descriptive Statistics
+- Frequency Distribution
+- Reliability Analysis (Cronbach's Alpha)
+- Pearson Correlation
+- Multiple Linear Regression
 
 ### Software Used
 
@@ -76,7 +76,7 @@ This project investigates factors influencing mental wellbeing using quantitativ
 - PDF Reports
 - Statistical Tables
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Public Health Data Analysis
 - Statistical Analysis
@@ -93,7 +93,7 @@ This project investigates factors influencing mental wellbeing using quantitativ
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 I am actively building my portfolio while seeking opportunities in:
 
@@ -106,7 +106,7 @@ I am actively building my portfolio while seeking opportunities in:
 
 ---
 
-## 📫 Contact
+## Contact
 
 Feel free to connect with me.
 
